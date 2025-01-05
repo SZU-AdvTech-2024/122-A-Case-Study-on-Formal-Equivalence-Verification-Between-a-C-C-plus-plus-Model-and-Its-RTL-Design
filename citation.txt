@@ -1,0 +1,8 @@
+@inproceedings{REPO122,
+    author = "Raia, Gaetano and Rigano, Gianluca and Vincenzoni, David and Martina, Maurizio",
+    booktitle = "International Symposium on Formal Methods",
+    organization = "Springer",
+    pages = "373--389",
+    title = "{A Case Study on Formal Equivalence Verification Between a C/C++ Model and Its RTL Design}",
+    year = "2024"
+}
